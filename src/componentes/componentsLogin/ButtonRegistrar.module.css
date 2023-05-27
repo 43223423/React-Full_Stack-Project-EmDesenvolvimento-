@@ -1,0 +1,13 @@
+.btn{
+    background-color: #11212e;
+    color: white;
+    width: 12em;
+    height: 6em;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn h2{
+    font-size: 2c;
+}

@@ -1,0 +1,78 @@
+.Container_EditarPerfil{
+    width: 450px;
+    display: flex;
+    padding: 3em;
+    background-color: #dddd;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.ContainerFoto img{
+    width: 20pc;
+    height: 20pc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.ContainerInput{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ContainerInput label{
+    font-size: 20px;
+
+}
+.ContainerInput input{
+    width: 300px;
+    height: 50px;
+    background-color: #152B38;
+    border-radius:15px;
+    font-size: 23px;
+    color: white;
+}
+.Container_Inputs{
+    width: 100%;
+    height: 100%;
+    background-color: yellow;
+}
+.ContainerButton{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ContainerButton button{
+    width: 100%;
+    height: 80px;
+    background-color: #152B38;
+    margin: 0 auto;
+    font-size: 30px;
+    color: white;
+}
+.File{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.File input[type='file']{
+    display: none;
+}
+.File label{
+    width: 200px;
+    height: 50px;
+    background-color: #152B38;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}

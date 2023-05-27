@@ -1,0 +1,41 @@
+.BotoesPriMoney_container button{
+      width: 150px;
+    height: 150px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin: 20px;
+    
+}
+.BotoesPriMoney_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.BotoesPriMoney_container:hover{
+    cursor: pointer;
+}
+.BotoesPriMoney_container label{
+    display: flex;
+    flex-direction: column;
+}
+
+.BotoesPriMoney_container button:hover{
+    background-color: rgb(158, 255, 179);
+    cursor: pointer;
+}
+.OpcoesPriMoney_container{
+    margin-top: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.BotoesPriMoney_container label{
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+}

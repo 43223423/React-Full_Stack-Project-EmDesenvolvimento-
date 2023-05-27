@@ -1,0 +1,39 @@
+.FinanciasContainer{
+    display: flex;
+    flex-direction: column;
+
+}
+.FinanciasItem{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 17pc;
+    height:10pc;
+    background-color: #152B38;
+    margin: 10px;
+    border-radius: 20px;
+}
+.FinanciasContainer span{
+    font-size: 23px;
+    font-weight: bold;
+}
+.SubFinancias{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+}
+.SubFinancias h1{
+    font-size: 30px;
+
+}
+.SubFinancias span{
+    color: rgb(122, 122, 122);
+}
+.Buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+}

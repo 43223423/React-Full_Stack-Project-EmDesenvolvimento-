@@ -1,0 +1,29 @@
+.NavBar_container{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background-color: #11212e;
+}
+.NavBar_container img{
+    width: 100px;
+    height: 100px;
+}
+.lista{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-left: 51em;
+}   
+.lista li{
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    margin-right: 1em;
+}
+.lista li:hover{
+    color: #3e74a0;
+    box-shadow: yellow;
+}
+.value{
+    display: none;
+}

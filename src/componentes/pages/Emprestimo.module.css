@@ -1,0 +1,17 @@
+.Container_Emprestimo{
+    width: 500px;
+    background-color: gray;
+    display: flex;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.Container_Input{
+    display: flex;
+    flex-direction: column;
+}
+.Input{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

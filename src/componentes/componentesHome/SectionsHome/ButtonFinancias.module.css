@@ -1,0 +1,26 @@
+.ButtonFinancias_Container{
+    background-color: rgb(59, 59, 59);
+    border-radius: 20px;
+}
+
+.ButtonFinancias_Container button{
+    width: 11em;
+    height: 3em;
+    border-radius: 20px;
+    border: 2px solid white;
+    color: black;
+    background-color:#152B38;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.ButtonFinancias_Container button:hover{
+    background-color: greenyellow;
+    color: black;
+}
+.ButtonFinancias_Container{
+   
+   border-radius: 20px;
+}

@@ -1,0 +1,15 @@
+.BottonHome_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.BottonHome_container button{
+    padding: 6em 4em;
+    border-radius: 22px;
+}
+.BottonHome_container button:hover{
+    background-color: rgb(158, 255, 179);
+}
+.BottonHome_container button span{
+    font-size: 13px;
+}

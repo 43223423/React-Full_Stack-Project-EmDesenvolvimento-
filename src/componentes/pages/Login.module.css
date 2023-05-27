@@ -1,0 +1,34 @@
+.Login_container{
+    width: 450px;
+    display: flex;
+    flex-direction: row;
+    padding: 3em;
+     background-image:linear-gradient(to bottom , #11212e, white);
+    margin: 0 auto;
+}
+.subLoginContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.Login_container h1{
+    font-size: 2pc;
+    margin-bottom: .5m;
+    margin-left: 30px;
+}
+.Login_container h1 span{
+    font-size: 2pc;
+    background-color: #11212e;
+    color: white;
+    margin-left: 4em;
+}
+.Login_container p{
+    font-size: 25px;
+}
+.Login_container div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}

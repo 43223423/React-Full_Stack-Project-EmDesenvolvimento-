@@ -1,0 +1,79 @@
+.Footer_container{
+    background-color: #11212e;
+    padding: 3em;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Footer_container h2{
+    color: white;
+    font-size: 27px;
+}
+.Footer_container p{
+    color: white;
+    font-size: 1.5pc;
+    
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    color: white;
+}
+.icons li{
+    margin: 0 1em;
+}
+.icons svg{
+    font-size: 1.5em;
+}
+.icons li:hover{
+    color: #3e74a0;
+    cursor: pointer;
+}
+.ComponentsFooter_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.ComponentsFooter_container h1{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding: 27px;
+    margin-top: -6px;
+}
+.ComponentsFooter_container h1 span{
+    font-size: 15px;
+    color: white;
+}
+.Downloads_container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.Downloads_container img{
+    border-radius: 20px;
+    width: 149px;
+    height: 50px;
+   
+    padding: 6px;
+
+}
+.Downloads_container img:hover{
+    cursor: pointer;
+}
+.sites{
+    padding-left: 9px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.ComponentsFooter hr{
+    width: 100%;
+    height: 1px;
+    border: none;
+    padding: 2px
+}

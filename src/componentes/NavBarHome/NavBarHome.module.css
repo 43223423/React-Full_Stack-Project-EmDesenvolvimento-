@@ -1,0 +1,25 @@
+.NavBar_container{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background-color: #11212e;
+    align-items: center;
+}
+.NavBar_container img{
+    width: 100px;
+    height: 100px;
+}
+.Imagens{
+    display: flex;
+    justify-content: space-between;
+}
+.photo{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+.subLogo{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}

@@ -1,0 +1,18 @@
+.SectionMoney_container{
+    
+}
+.SectionMoney_container img{
+    width: 500px;
+    height: 500px;
+    margin-top: 3em;
+}
+.SubSectionMoney{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 80px;
+}
+.SubSectionMoney span{
+    font-size: 26px;
+    margin-bottom: 15px;
+}

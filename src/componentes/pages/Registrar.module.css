@@ -1,0 +1,35 @@
+.FormContainer{
+    width: 450px;
+    display: flex;
+    padding: 3em;
+     background-image:linear-gradient(to bottom , #11212e, white);
+    margin: 0 auto;
+    flex-direction: column;
+}
+.FormContainer form{
+    width: 400px;
+    margin: 2em 0; 
+    display: flex;
+    flex-direction: column;
+    
+}
+.form01{
+    width: 400px;
+    margin: 2em 0; 
+    display: flex;
+    flex-direction: column;
+}
+.ButtonVoltar button{
+    width: 300px;
+    height: 50px;
+    background-color: #11212e;
+    color: white;
+    font-size: 20px;
+}
+
+.Container_Voltar{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

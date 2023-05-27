@@ -1,0 +1,56 @@
+.SubMoney{
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    padding: 10px;
+    border-left: 13px solid black;
+    border: 1px solid black;
+}
+.SubMoney{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.DownMoney{
+    width: 100%;
+    border-radius: 20px;
+    height: 50%;
+  
+    
+}
+.UpMoney{
+    width: 100%;
+    border-radius: 20px;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    
+    border-bottom: 2px solid black;
+}
+.DownMoney h2{
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+}
+.DownMoney h2 span{
+    font-weight: normal;
+    font-size: 25px;
+    margin-left: 9px;
+}
+.UpMoney img{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.UpMoney h3{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 10px;
+
+}

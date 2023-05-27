@@ -1,0 +1,35 @@
+.PerfilContainer{
+    width: 450px;
+    display: flex;
+    padding: 3em;
+    background-color: #dddd;
+    margin: 0 auto;
+}
+.PerfilContainer h1{
+    width: 450px;
+    display: flex;
+    justify-content: center;
+}
+.subPerfilContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.SubPerfilContainer img{
+    width: 371px;
+    height: auto;
+    border-radius: 20px;
+    margin-left: 42px;
+}
+.SubPerfilContainer img:hover{
+    border-radius: 30px;
+}
+.SubPerfilContainer{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    width: 100%;
+    height: 3px;
+    background-color: green;
+}

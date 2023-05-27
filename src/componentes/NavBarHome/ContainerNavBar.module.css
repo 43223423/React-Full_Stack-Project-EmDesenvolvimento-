@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 1200px;
+    display: wrap;
+}
+.customClass{
+    
+}
+.logo{
+    margin-left: 63pc;
+}
